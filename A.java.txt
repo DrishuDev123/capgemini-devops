@@ -1,6 +1,6 @@
 class A{
 void Welcome(){
-System.out.println("hello capgemini");
+System.out.println("hello divya");
 }
 void add(int x,int y)
 {
