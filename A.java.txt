@@ -1,5 +1,6 @@
 class A{
 void Welcome(){
+System.out.println("hello capgemini");
 }
 void add(int x,int y)
 {
