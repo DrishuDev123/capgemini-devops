@@ -1,4 +1,7 @@
 class A{
 void Welcome(){
 }
+void add()
+{
+}
 }
