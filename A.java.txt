@@ -4,5 +4,6 @@ void Welcome(){
 void add(int x,int y)
 {
 int r=x+y;
+System.out.println(r);
 }
 }
