@@ -1,3 +1,4 @@
+//modigied by sukku
 class A{
 void Welcome(){
 System.out.println("hello divya");
