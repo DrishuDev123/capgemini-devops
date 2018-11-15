@@ -1,4 +1,9 @@
 class B
 {
+void message()
+
+{
+Syso(""new one"");
+}
 
 }
