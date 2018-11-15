@@ -5,9 +5,8 @@ System.out.println("hello divya");
 void add(int x,int y)
 {
 int r=x+y;
-//feature2
+//feature5
 System.out.println(r);
-int a=5;
 
 }
 }
