@@ -1,3 +1,4 @@
+//developer 2
 class B
 {
 void message()
